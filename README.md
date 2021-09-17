@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leonardo-otero390
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leonardo.otero390@gmail.com
 
 <!---
