@@ -45,5 +45,4 @@ Estou participando da [Formação Driven de programação web](https://www.drive
 
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=leonardo-otero390&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-otero390&layout=compact" />
-
-<-- Template de Gabriel Milhomem https://github.com/gabriel-milhomem -->
+[//]: # (Template de Gabriel Milhomem https://github.com/gabriel-milhomem)
