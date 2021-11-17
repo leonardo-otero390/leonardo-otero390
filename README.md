@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lbittencourt.o/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardo-otero390)
 
-## Sobre Mim :speech_balloon:
+## About me :speech_balloon:
 
 Hi! My name is Leonardo, I'm 23 and studying Electrical Engineering at UFMS. My goal is to make the world a better place.
 
@@ -30,7 +30,7 @@ I'm in [Driven Formation of web programming](https://www.driven.com.br/) where I
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 
-#### Ferramentas:
+#### Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -43,7 +43,7 @@ I'm in [Driven Formation of web programming](https://www.driven.com.br/) where I
 
 
 <details>
-  <summary>Estatísticas :rocket:</summary>
+  <summary>Statistics :rocket:</summary>
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=leonardo-otero390&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-otero390&layout=compact" />
  </details>
