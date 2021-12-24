@@ -7,40 +7,53 @@
 
 ## About me :speech_balloon:
 
-Hi! My name is Leonardo, I'm 23 and studying Electrical Engineering at UFMS. My goal is to make the world a better place.
+Hi! My name is Leonardo, I'm 23 and studying Electrical Engineering at UFMS.
 
-I'm in [Driven Formation of web programming](https://www.driven.com.br/) where I've done 14 Front-End and Back-End projects made with the main WEB technologies: HTML5, CSS3, Javascript, ReactJS , NodeJS, ExpressJS and PostgreSQL. In addition to Deploy for Full-Stack applications in production with Heroku, automated tests with Jest and group projects using Agile Methodologies (Scrum), Git, Trello, Slack, Zoom, Pair programming and Code Review.
+I'm in [Driven Formation of web development](https://www.driven.com.br/) where I've done 20+ projects made with the main web technologies: HTML5, CSS3, Javascript, ReactJS , NodeJS, ExpressJS, and PostgreSQL. In addition to Deploy for Full-Stack applications in production with Heroku, automated tests with Jest and group projects using Agile Methodologies (Scrum), Git, Trello, Slack, Zoom, Pair programming, and Code Review.
 
-## Tecnologias que estou estudando :books:
+I'm Bartender, DeMolay, drink connoisseur, gamer, and guitar player. My goal is to ensure a good life for my family and make the world a better place for everyone.
 
-#### Front-end:
+Feel free to get in touch and book a coffee to exchange experiences. ☕️
+
+## Technologies that I have skill :computer:
+
+### Front-end:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![cypress](https://img.shields.io/badge/Cypress-182534?style=flat-square&logo=cypress&logoColor=white)
 
-#### Back-End:
+### Back-End:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![TypeORM](https://img.shields.io/badge/TypeORM-red?style=flat-square)
 
-#### Tools:
+### Languages :keyboard:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=blue)
+
+### Tools :wrench:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
+![husky](https://img.shields.io/badge/husky-b0b0d5?style=flat-square)
 ![NPM](https://img.shields.io/badge/NPM-FFF?style=flat-square&logo=npm)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
-![husky](https://img.shields.io/badge/husky-b0b0d5?style=flat-square)
 
+### Cloud deploy :cloud:
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 <details>
   <summary>Statistics :rocket:</summary>
