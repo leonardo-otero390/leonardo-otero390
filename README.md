@@ -11,8 +11,8 @@ Hi! My name is Leonardo, I'm 23. Currently studying Electrical Engineering at [U
 
 * Bartender :tropical_drink:
 * DeMolay :vampire_man:
-* gamer :video_game:
-* guitar player :guitar:
+* Gamer :video_game:
+* Guitar player :guitar:
 * My goal is to ensure a good life for my family and make the world a better place for everyone. :star2:
 
 Feel free to get in touch and book a coffee to exchange experiences. ☕️
