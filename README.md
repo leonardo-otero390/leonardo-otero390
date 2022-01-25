@@ -7,11 +7,13 @@
 
 ## About me :speech_balloon:
 
-Hi! My name is Leonardo, I'm 23 and studying Electrical Engineering at UFMS.
+Hi! My name is Leonardo, I'm 23. Currently studying Electrical Engineering at [UFMS](https://www.ufms.br/) and web development at [Driven](https://www.driven.com.br/).
 
-I'm in [Driven Formation of web development](https://www.driven.com.br/) where I've done 20+ projects made with the main web technologies: HTML5, CSS3, Javascript, ReactJS , NodeJS, ExpressJS, and PostgreSQL. In addition to Deploy for Full-Stack applications in production with Heroku, automated tests with Jest and group projects using Agile Methodologies (Scrum), Git, Trello, Slack, Zoom, Pair programming, and Code Review.
-
-I'm Bartender, DeMolay, drink connoisseur, gamer, and guitar player. My goal is to ensure a good life for my family and make the world a better place for everyone.
+* Bartender :tropical_drink:
+* DeMolay :vampire_man:
+* gamer :video_game:
+* guitar player :guitar:
+* My goal is to ensure a good life for my family and make the world a better place for everyone. :star2:
 
 Feel free to get in touch and book a coffee to exchange experiences. ☕️
 
