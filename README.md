@@ -9,6 +9,8 @@
 
 Hi! My name is Leonardo, I'm 23. Currently studying Electrical Engineering at [UFMS](https://www.ufms.br/) and web development at [Driven](https://www.driven.com.br/).
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85591297/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif" height="200" />
+
 * Bartender :tropical_drink:
 * DeMolay :vampire_man:
 * Gamer :video_game:
