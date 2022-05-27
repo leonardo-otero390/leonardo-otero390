@@ -7,7 +7,7 @@
 
 ## About me :speech_balloon:
 
-Hi! My name is Leonardo, I'm 23. Currently studying Electrical Engineering at [UFMS](https://www.ufms.br/) and web development at [Driven](https://www.driven.com.br/).
+Hi! My name is Leonardo, I'm 24. Currently studying Electrical Engineering at [UFMS](https://www.ufms.br/) and web development at [Driven](https://www.driven.com.br/).
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85591297/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif" height="200" />
 
@@ -34,8 +34,10 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=green)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-red?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-283141?style=flat-square&logo=prisma&logoColor=white)
 
 ### Languages :keyboard:
 
@@ -58,6 +60,7 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-002c66?style=flat-square&logo=docker&logoColor=white)
 
 <details>
   <summary>Statistics :rocket:</summary>
