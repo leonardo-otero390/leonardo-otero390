@@ -15,7 +15,7 @@ Hi! My name is Leonardo, I'm 24. Currently studying Electrical Engineering at [U
 * DeMolay :vampire_man:
 * Gamer :video_game:
 * Guitar player :guitar:
-* My goal is to ensure a good life for my family and make the world a better place for everyone. :star2:
+* My goal is make the world a better place for everyone. :star2:
 
 Feel free to get in touch and book a coffee to exchange experiences. ☕️
 
