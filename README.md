@@ -61,6 +61,7 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-002c66?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon&logoColor=FF9900)
 
 <details>
   <summary>Statistics :rocket:</summary>
