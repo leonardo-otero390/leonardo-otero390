@@ -7,7 +7,7 @@
 
 ## About me :speech_balloon:
 
-Hi! My name is Leonardo, I'm 24. Currently studying Electrical Engineering at [UFMS](https://www.ufms.br/) and web development at [Driven](https://www.driven.com.br/).
+Hi! My name is Leonardo, I'm a fullstack web developer. Currently studying Electrical Engineering at [UFMS](https://www.ufms.br/) and web development at [Driven](https://www.driven.com.br/).
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85591297/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif" height="200" />
 
