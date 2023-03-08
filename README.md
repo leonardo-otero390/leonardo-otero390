@@ -6,8 +6,7 @@
 
 ## About me :speech_balloon:
 
-Hi! My name is Leonardo, I'm a fullstack web developer. Currently studying Electrical Engineering at [UFMS](https://www.ufms.br/) and web development at [Driven](https://www.driven.com.br/).
-
+Hi! My name is Leonardo, I'm a fullstack web developer. Currently working at pagar.me.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85591297/155621436-37921094-7848-41ad-9ba6-d4b17f255b58.gif" height="200" />
 
 * Bartender :tropical_drink:
@@ -20,14 +19,6 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 
 ## Technologies that I have skill :computer:
 
-### Front-end:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![cypress](https://img.shields.io/badge/Cypress-182534?style=flat-square&logo=cypress&logoColor=white)
-
 ### Back-End:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -38,10 +29,17 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 ![TypeORM](https://img.shields.io/badge/TypeORM-red?style=flat-square)
 ![Prisma](https://img.shields.io/badge/Prisma-283141?style=flat-square&logo=prisma&logoColor=white)
 
+### Front-end:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 ### Languages :keyboard:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=blue)
+![Golang](https://img.shields.io/badge/Golang-blue?style=flat-square&logo=go&logoColor=white)
 
 ### Tools :wrench:
 
@@ -52,7 +50,9 @@ Feel free to get in touch and book a coffee to exchange experiences. ☕️
 ![husky](https://img.shields.io/badge/husky-b0b0d5?style=flat-square)
 ![NPM](https://img.shields.io/badge/NPM-FFF?style=flat-square&logo=npm)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=flat-square&logo=salesforce&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Cloud deploy :cloud:
